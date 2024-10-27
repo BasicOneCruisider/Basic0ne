@@ -8,7 +8,7 @@
 ## I look forward to 
 * Learning new things
 
-
+ <img src="https://tryhackme-badges.s3.amazonaws.com/BasicOne.png" alt="Your Image Badge" /> 
 
 
 
@@ -26,7 +26,7 @@
 
  <h3 align="left">Some sTATS:</h3><p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BasicOneCruisider&show_icons=true&locale=en&layout=compact" alt="" /></p> 
-<p><img align="left" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1869331" alt="" /> <img src="https://tryhackme-badges.s3.amazonaws.com/BasicOne.png" alt="Your Image Badge" /> 
+<p><img align="left" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1869331" alt="" />
 </p> 
 
 
