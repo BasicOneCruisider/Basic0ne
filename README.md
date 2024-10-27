@@ -1,7 +1,7 @@
  
 <h1 align="center">Hi 👋, I'm Francis !</h1>
-<p align="center"><img align="center" src="https://i.pinimg.com/originals/e4/d8/a7/e4d8a7191c954884a304a411d13e9b1d.gif" alt="francis ntahimpera" height="400px" > </p>
-<h2 align="center">I'm a Junior Devops</h2>
+
+<h2 align="center">I'm a Junior software engineer</h2>
 <h3 align="center">Languages and Tools:</h3>
 
  
