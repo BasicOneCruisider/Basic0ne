@@ -1,8 +1,7 @@
  
 <h1 align="center">Hi 👋, I'm Basic0ne !</h1>
 
-<h2 align="center">I'm a Junior software engineer( Infra & Security)</h2>
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">I'm a Junior software engineer( Infra & Security)</h2
 
 
 
