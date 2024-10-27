@@ -1,7 +1,7 @@
  
-<h1 align="center">Hi 👋, I'm Francis !</h1>
+<h1 align="center">Hi 👋, I'm Basic0ne !</h1>
 
-<h2 align="center">I'm a Junior software engineer</h2>
+<h2 align="center">I'm a Junior software engineer( Infra & Security)</h2>
 <h3 align="center">Languages and Tools:</h3>
 
  
@@ -29,13 +29,11 @@
 
 ## I look forward to 
 * Learning new things
-* Looking for a new interesting job in IT
+
  
 
 
-## Two things I value the most to work as a team
-1. Communication
-2. **Structure**, **clarity** in tasks and work division
+
 
 
 ## In progress...
@@ -43,14 +41,14 @@
 
 - 🔭 I’m currently working on LEARN TO LEARN
 
-- 🌱 I’m currently learning **MS Azure** and **Terraform**.
+- 🌱 I’m currently learning **Pentesting** and **Container Security**.
 
  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/francis-ntahimpera-a28a56220/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="francis ntahimpera" height="30" width="40" /></a>
-  <p> 📫   *ntahimperafrancis@gmail.com* </p>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1869331" style='border:none;'></iframe>
+ 
 </p>
  <h3 align="left">Some sTATS:</h3><p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francisntahimpera&show_icons=true&locale=en&layout=compact" alt="francisntahimpera" /></p> 
